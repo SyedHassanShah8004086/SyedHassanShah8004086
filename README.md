@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Syed Hassan Shah
 - 👀 I’m interested in Web Development/Software Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to internship.
 - 📫 How to reach me through github 
 - ⚡ write a code and do enjoy ...
 
