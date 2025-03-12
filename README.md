@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to internship.
 - 📫 How to reach me through github 
-- ⚡ write a code and do enjoy ...
+- ⚡ Look at my code and do enjoy ...
 
 <!---
 SyedHassanShah8004086/SyedHassanShah8004086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
